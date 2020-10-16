@@ -1,8 +1,7 @@
 char* StrCpy(char* src)
 {
 int i=0,count=0;
-char *b;
 for(i=0;char[i]!='\0';i++)
-count++;
-return b;
+count++；
+hello;
 }
