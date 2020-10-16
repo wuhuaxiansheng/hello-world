@@ -1,3 +1,4 @@
 int F(int a,int c){
+char d,a[10];
 return 1;
 }
