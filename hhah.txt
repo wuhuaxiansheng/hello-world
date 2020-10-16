@@ -1,3 +1,5 @@
 int F(int a,int c){
+int b;
+int c;
 return 1;
 }
